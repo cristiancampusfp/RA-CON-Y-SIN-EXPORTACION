@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cuenta>
+  <titular>
+    <nombre>cristian</nombre>
+    <dni>49996624y</dni>
+    <edad>21</edad>
+  </titular>
+  <movimientos>
+    <movimiento tipo="INGRESO">
+      <cantidad>31,00</cantidad>
+      <fechaHora>2025-10-26 20:55:48</fechaHora>
+    </movimiento>
+    <movimiento tipo="RETIRADA">
+      <cantidad>4,00</cantidad>
+      <fechaHora>2025-10-26 20:55:50</fechaHora>
+    </movimiento>
+    <movimiento tipo="INGRESO">
+      <cantidad>32,00</cantidad>
+      <fechaHora>2025-10-26 21:13:36</fechaHora>
+    </movimiento>
+    <movimiento tipo="RETIRADA">
+      <cantidad>3,00</cantidad>
+      <fechaHora>2025-10-26 21:13:39</fechaHora>
+    </movimiento>
+    <movimiento tipo="INGRESO">
+      <cantidad>23,00</cantidad>
+      <fechaHora>2025-10-26 21:17:48</fechaHora>
+    </movimiento>
+    <movimiento tipo="RETIRADA">
+      <cantidad>3,00</cantidad>
+      <fechaHora>2025-10-26 21:17:51</fechaHora>
+    </movimiento>
+  </movimientos>
+</cuenta>

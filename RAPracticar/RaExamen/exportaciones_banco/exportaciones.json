@@ -1,0 +1,29 @@
+{
+  "titular": {
+    "nombre": "cristian",
+    "dni": "49996624y",
+    "edad": 21
+  },
+  "movimientos": [
+    {
+      "tipo": "INGRESO",
+      "cantidad": 31,00,
+      "fechaHora": "2025-10-26 20:55:48"
+    },
+    {
+      "tipo": "RETIRADA",
+      "cantidad": 4,00,
+      "fechaHora": "2025-10-26 20:55:50"
+    },
+    {
+      "tipo": "INGRESO",
+      "cantidad": 32,00,
+      "fechaHora": "2025-10-26 21:13:36"
+    },
+    {
+      "tipo": "RETIRADA",
+      "cantidad": 3,00,
+      "fechaHora": "2025-10-26 21:13:39"
+    }
+  ]
+}
